@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { TempData } from '../shared/cart.model';
-import { CertService } from '../shared/cert.service';
+import { TempData } from 'src/app/shared/cart.model';
+import { CertService } from 'src/app/shared/cert.service';
 
 @Component({
   selector: 'app-textbox',
